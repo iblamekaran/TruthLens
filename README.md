@@ -51,7 +51,7 @@ Includes popular searches:
 - JavaScript
 
 ### Backend
-- Add your backend technology here
+- Python
 
 ### APIs & Tools
 - Wikipedia API
