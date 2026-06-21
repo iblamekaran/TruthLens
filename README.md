@@ -9,6 +9,7 @@ TruthLens is a modern research platform that helps users quickly gather informat
 
 ## ✨ Features
 
+
 ### 🔎 Public Figure Research
 - Search any public figure
 - Generate quick research briefs
@@ -42,14 +43,21 @@ Includes popular searches:
 - Structured summaries
 - Research-focused interface
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
-- APIs
-- AI Integration
-- Translation APIs
+
+### Backend
+- Add your backend technology here
+
+### APIs & Tools
+- Wikipedia API
+- Google Translate API
+- AI API
+- GitHub
 
 ## 📂 Project Structure
 
@@ -68,6 +76,21 @@ TruthLens/
 ├── screenshot.png
 └── README.md
 
+## 👨‍💻 My Contribution
+
+As a team project, I mainly worked on the backend development:
+
+- Developed backend functionality and project logic
+- Worked on API integration and data handling
+- Managed backend structure and communication between frontend and backend
+- Helped in testing and improving application workflow
+
+
+## 🚀 Future Improvements
+
+- User accounts
+- Saved research history
+- AI-generated reports
 
 ## ⚙️ How to Run
 
